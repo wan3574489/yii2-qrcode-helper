@@ -98,7 +98,7 @@ abstract class TestCase extends \PHPUnit_Framework_TestCase
 
     /**
      * Creates a view for testing purposes
-     *
+     * 
      * @return View
      */
     protected function getView()
